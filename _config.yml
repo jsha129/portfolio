@@ -1,7 +1,6 @@
 title: Jaynish Shah
 author:
-  name: jay
-  # avatar: /assets/main_photo.png
+  picture: /assets/main_photo.png
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
