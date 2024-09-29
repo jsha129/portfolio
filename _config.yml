@@ -1,11 +1,4 @@
-# Profile image setup
-author:
-  name: Jaynish Shah (Jay)
-  avatar: /assets/main_photo.png
-  bio: "A short bio about yourself"
-  location: "Your Location"
-  email: your-email@example.com
-  github: yourusername
+title: Jaynish Shah
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
