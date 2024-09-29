@@ -1,11 +1,15 @@
 title: Jaynish Shah, PhD
 
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-feed
+
 author:
   picture: /assets/main_photo.png
   
 
-theme: jekyll-theme-minimal
 
 
-plugins:
-  - jekyll-feed
+
+
