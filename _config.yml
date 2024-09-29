@@ -1,6 +1,11 @@
 title: Jaynish Shah
+
 author:
   picture: /assets/main_photo.png
+  
+
 theme: jekyll-theme-minimal
+
+
 plugins:
   - jekyll-feed
