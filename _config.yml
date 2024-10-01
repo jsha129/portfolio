@@ -1,12 +1,11 @@
-title: Jaynish Shah, PhD
-
 theme: jekyll-theme-minimal
-
+title: Jaynish Shah, PhD
+logo: /assets/main_photo.png
 plugins:
   - jekyll-feed
 
-author:
-  picture: /assets/main_photo.png
+# author:
+#   picture: /assets/main_photo.png
   
 
 
