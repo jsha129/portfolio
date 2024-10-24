@@ -1,5 +1,8 @@
 # Projects
-- **Melbourne Property Market Analysis**: Applied statistical methods to analyze trends in the Melbourne housing market.
+- **Melbourne Property Market Analysis**. https://github.com/jsha129/PropertyPy
+  + jndikf
+  + jkdnf
+  + Applied statistical methods to analyze trends in the Melbourne housing market.
 - **Stock Market Forecasting**: Utilized probability theory to model and predict stock price movements.
 - **Car Depreciation Study**: Performed multivariable analysis to identify ideal car purchases based on depreciation rates.
 
