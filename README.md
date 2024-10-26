@@ -1,7 +1,25 @@
-# Projects - scientific 
+# Projects - Medical research
+I acted as a Lead researcher for the following scientific projects that gained recognition from global experts as significant contributions to the field.
+<ol>
+    <li> <b>Quality control protocol for novel markers for early cancer detection. </b>I developed a protocol for monitoring haemolysis, addressing issues that can lead to false results. This protocol was published in an international journal and has been cited in over 200 studies, demonstrating its widespread adoption and impact in the field
+    <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153200">[Link to the scholarly article]</a>.
+    
+    Methods: R, linear regression, Receiver Operator Characteristic (ROC) curve analysis, optimisation of sensitivity specificity point for clinical diagnostics.
+</ol>
+- [irlib](https://github.com/jsha129/irlib): Custom function to aid in intron retention analysis.
 
-# Projects - other
-[SpotifyR](#spotifyr)
+# Projects - Data science
+<ol>
+    <li> <a href="https://github.com/jsha129/asx_stocks">ASX_stocks</a>: Identifying High-Performance Stocks Through Fundamental Financial Analysis (Python, unix, SQL, R). 
+    <li> <a href="https://github.com/jsha129/PropertyPy">PropertyPy</a>: Estimates property appreciation rates of Melbourne suburbs and visuliases on map (python).
+    <li> <a href="https://github.com/jsha129/SpotifyR">SpotifyR</a>: Discoverying new music on spotify (R).
+    <li> <a href="https://github.com/jsha129/KBB_Cars">KBB_cars</a>: Performs multivariable analysis to identify ideal car purchases in the US based on depreciation rates (R).
+    <li> <a href="https://github.com/jsha129/Meetup_MineR">Meetup_mineR</a>: Finding popular activity groups and events in a city (R).
+
+</ol>
+
+# Projects in detail
+
 - **Melbourne Property Market Analysis**: To estimate annual growth rate of properties by suburbs of Melbourne (Australia) using publicly available data and visualise the results on a map (https://github.com/jsha129/PropertyPy).
     + **Methods:** API requests, json data, geopandas, linear regression, integration of data from multiple sources.  
     + **Language(s):** Python
