@@ -1,4 +1,4 @@
-# Projects - Medical research
+#Projects - Medical research
 Following are some of the projects I have worked on  that have gained recognition from global experts as significant contributions to the field.
 
 <ol>
@@ -26,7 +26,7 @@ Following are some of the projects I have worked on  that have gained recognitio
 
 
 
-# Projects - Data science
+#Projects - Data science
 <ol>
     <li><b>Identifying High-Performance Stocks Through Fundamental Financial Ratio Analysis.</b> Key financial ratio associated with historic growth rates of stocks were identified using linear and logistic regression, feature selection and PCA. <a href="https://github.com/jsha129/asx_stocks">[github link]</a>.
     <p>
