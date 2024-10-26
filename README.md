@@ -1,11 +1,26 @@
 # Projects - Medical research
-I acted as a Lead researcher for the following scientific projects that gained recognition from global experts as significant contributions to the field.
+I am the Lead researcher for the following scientific projects that gained recognition from global experts as significant contributions to the field.
 <ol>
-    <li> <b>Quality control protocol for novel markers for early cancer detection. </b>I developed a protocol for monitoring haemolysis, addressing issues that can lead to false results. This protocol was published in an international journal and has been cited in over 200 studies, demonstrating its widespread adoption and impact in the field
-    <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153200">[Link to the scholarly article]</a>.
+<li> <b>Quality control protocol for novel markers for early cancer detection.</b> I developed a protocol for monitoring haemolysis, addressing issues that can lead to false results in cancer detection. This protocol was published in an international journal and has been cited in over 200 studies, demonstrating its widespread adoption and impact in the field. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153200">[Link to the scholarly article]</a>
     
-    Methods: R, linear regression, Receiver Operator Characteristic (ROC) curve analysis, optimisation of sensitivity specificity point for clinical diagnostics.
+<p>
+<b>Methods: </b> R, linear regression, Receiver Operator Characteristic (ROC) curve analysis, optimisation of sensitivity and specificity point for clinical diagnostics. </p>
+
+<li><b> </b>.
+<p>
+<b>Methods: </b>
+
+
+
+<li><b> </b>.
+<p>
+<b>Methods: </b>
+
 </ol>
+
+
+
+
 - [irlib](https://github.com/jsha129/irlib): Custom function to aid in intron retention analysis.
 
 # Projects - Data science
