@@ -1,7 +1,7 @@
 # Projects - Medical research
 Following are some projects I have worked on  that have gained recognition from global experts as significant contributions to the field.
 
-- <b>Quality control protocol for novel markers for early cancer detection (Lead researcher).</b> I developed a protocol for monitoring haemolysis, addressing issues that can lead to false results in cancer detection. This protocol was published in an international journal and has been cited in over 200 studies, demonstrating its widespread adoption and impact in the field. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153200", target="_blank">[Link to the scholarly article]</a>
+- <b>Quality control protocol for novel markers for early cancer detection (Lead researcher).</b> I developed a protocol for monitoring haemolysis, addressing issues that can lead to false results in cancer detection. This protocol was published in an international journal and has been cited in over 200 studies, demonstrating its widespread adoption and impact in the field. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153200" target="_blank">[Link to the scholarly article]</a>
         
     <p>
     <b>Methods.  </b> R, linear regression, Receiver Operator Characteristic (ROC) curve analysis, optimisation of sensitivity and specificity point for clinical diagnostics. </p>
