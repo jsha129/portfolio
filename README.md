@@ -6,16 +6,16 @@ Following are some projects I have worked on  that have gained recognition from 
     <p>
     <b>Methods.  </b> R, linear regression, Receiver Operator Characteristic (ROC) curve analysis, optimisation of sensitivity and specificity point for clinical diagnostics. </p>
 
-- <b>Identifying novel predictors to optimise surgery for patients with ovarian cancer (Lead researcher)</b>. Surgical removal of cancer is routinely used in the management of the disease. This study identified novel biomarkers associated with positive surgical outcomes, optimising risk the risk-to-reward ratio for a patient.<a href="https://doi.org/10.1016/j.ygyno.2017.11.005",target="_blank">[Link to the scholarly article]</a>
+- <b>Identifying novel predictors to optimise surgery for patients with ovarian cancer (Lead researcher)</b>. Surgical removal of cancer is routinely used in the management of the disease. This study identified novel biomarkers associated with positive surgical outcomes, optimising risk the risk-to-reward ratio for a patient.<a href="https://doi.org/10.1016/j.ygyno.2017.11.005" target="_blank">[Link to the scholarly article]</a>
 
     <p>
     <b>Methods.  </b> R, linear regression, model/feature selection, k-fold cross validation, bootstrapping, support vector machine (SVM) and Diagonal Linear Discriminant Analysis (DLDA). 
 
-- <b>Genetic analysis of breast cancer (Lead researcher)</b>. Intron retention, a rare form of alternative splicing, was found to be abnormal in breast cancer. Using publicly available data on more than 1000 patients,  this study pinpointed the abnormality in tissue composition and cellular proliferation rate. We discovered a link between proliferation rate and intron retention. <a href="https://doi.org/10.1186/s13058-022-01593-1", target="_blank">[Link to the scholarly article]</a>
+- <b>Genetic analysis of breast cancer (Lead researcher)</b>. Intron retention, a rare form of alternative splicing, was found to be abnormal in breast cancer. Using publicly available data on more than 1000 patients,  this study pinpointed the abnormality in tissue composition and cellular proliferation rate. We discovered a link between proliferation rate and intron retention. <a href="https://doi.org/10.1186/s13058-022-01593-1" target="_blank">[Link to the scholarly article]</a>
     <p>
     <b>Methods.  </b> R, Unix, HPC/cloud computing, bootstrapping, RNA-seq, Gene ontology, gene set enrichment analysis (GSEA), hierarchical clustering, K-means clustering, survival analysis and dimension reductional using PCA.
 
-- <b>Genetic analysis of blood cancer</b>. This study discovered distinct epigenetic marks associated with intron retention in blood cancer. <a href="https://www.mdpi.com/2072-6694/12/12/3738", target="_blank">[Link to the scholarly article]</a>
+- <b>Genetic analysis of blood cancer</b>. This study discovered distinct epigenetic marks associated with intron retention in blood cancer. <a href="https://www.mdpi.com/2072-6694/12/12/3738" target="_blank">[Link to the scholarly article]</a>
     <p>
     <b>Methods.  </b> R, HPC/cloud computing, bootstrapping.
 
