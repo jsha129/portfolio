@@ -1,4 +1,4 @@
-<h1> Projects - Medical research </h1>
+<h1>Projects - Medical research</h1>
 Following are some of the projects I have worked on  that have gained recognition from global experts as significant contributions to the field.
 
 <ol>
@@ -24,7 +24,7 @@ Following are some of the projects I have worked on  that have gained recognitio
 
 <hr>
 
-<h1> Projects - Data science </h1>
+<h1>Projects - Data science</h1>
 
 <ol>
     <li><b>Identifying High-Performance Stocks Through Fundamental Financial Ratio Analysis.</b> Key financial ratio associated with historic growth rates of stocks were identified using linear and logistic regression, feature selection and PCA. <a href="https://github.com/jsha129/asx_stocks">[github link]</a>.
@@ -41,7 +41,7 @@ Following are some of the projects I have worked on  that have gained recognitio
 
 
 
-# Qualifications
+<h1>Qualifications</h1>
 - Graduate Diploma in Statistics (2022 - current)
 - PhD
 - B.Tech (Hons I)
