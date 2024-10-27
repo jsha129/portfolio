@@ -19,10 +19,9 @@ Following are some of the projects I have worked on  that have gained recognitio
 <li><b>Genetic analysis of blood cancer</b>. This study discovered distinct epigenetic marks associated with intron retention in blood cancer. <a href="https://www.mdpi.com/2072-6694/12/12/3738">[Link to the scholarly article]</a>
 <p>
 <b>Methods: </b> R, HPC/cloud computing, bootstrapping.
+
 </ol>
-
-
-
+<hr>
 
 
 # Projects - Data science
@@ -39,16 +38,9 @@ Following are some of the projects I have worked on  that have gained recognitio
 </ol>
 
 
-# Skills
-- Data Science
-- Statistics
-- Probability Theory
-- Multivariable Calculus
-- Linear Algebra
-- Market Analysis
+
 
 # Qualifications
-- Graduate Diploma in Statistics
-- Experience in practical applications of statistical methods
-- Strong background in mathematics
-- Bioinformatics with an emphasis on Data Science
+- Graduate Diploma in Statistics (2022 - current)
+- PhD
+- B.Tech (Hons I)
