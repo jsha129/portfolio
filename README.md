@@ -23,7 +23,9 @@ Following are some of the projects I have worked on  that have gained recognitio
 </ol>
 
 <hr>
+
 # Projects - Data science
+
 <ol>
     <li><b>Identifying High-Performance Stocks Through Fundamental Financial Ratio Analysis.</b> Key financial ratio associated with historic growth rates of stocks were identified using linear and logistic regression, feature selection and PCA. <a href="https://github.com/jsha129/asx_stocks">[github link]</a>.
     <p>
